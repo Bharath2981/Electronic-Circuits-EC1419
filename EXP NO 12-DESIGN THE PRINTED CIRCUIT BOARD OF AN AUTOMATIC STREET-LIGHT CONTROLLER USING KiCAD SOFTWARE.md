@@ -8,9 +8,12 @@
 
 
 ## Kicad circuit diagram
-
-## PCB layout view
+<img width="1465" height="1080" alt="image" src="https://github.com/user-attachments/assets/cbadb49e-bc7e-424b-b3c3-4214056d71b6" />
 
 ## PCB 3D view
+<img width="1454" height="971" alt="image" src="https://github.com/user-attachments/assets/12dcdb34-5336-49a7-87c6-23944f0e9d9f" />
+## mark splitup
+<img width="1356" height="1071" alt="image" src="https://github.com/user-attachments/assets/dd5c656a-0eb4-4615-9812-f95e2a511e18" />
 
 ## result
+<img width="1600" height="983" alt="image" src="https://github.com/user-attachments/assets/cde5362a-c454-4073-99f5-ff0a05c07c54" />
