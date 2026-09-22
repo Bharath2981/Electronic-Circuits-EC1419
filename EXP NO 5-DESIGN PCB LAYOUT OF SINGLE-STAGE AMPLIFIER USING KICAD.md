@@ -9,7 +9,14 @@
 
 
 ## Kicad circuit diagram
+<img width="1454" height="1080" alt="WhatsApp Image 2026-09-22 at 8 08 47 PM" src="https://github.com/user-attachments/assets/ac4a967a-78a5-44b0-90e5-8ab46e840148" />
 
-## output waveform
+## outputs
+<img width="1472" height="1080" alt="WhatsApp Image 2026-09-22 at 8 09 09 PM" src="https://github.com/user-attachments/assets/50428e48-352e-44e7-aad3-f8b451ecb7ce" />
+
+<img width="1339" height="1080" alt="WhatsApp Image 2026-09-22 at 8 09 25 PM" src="https://github.com/user-attachments/assets/b55a2d54-62a1-49d8-bd0e-f80cb9104623" />
+
+<img width="1426" height="1080" alt="WhatsApp Image 2026-09-22 at 8 10 46 PM" src="https://github.com/user-attachments/assets/c99437dd-3b2e-466c-897c-448eebcbbb91" />
 
 ## result
+<img width="1404" height="1600" alt="WhatsApp Image 2026-09-22 at 8 11 56 PM" src="https://github.com/user-attachments/assets/eebd4f02-5072-45ba-9171-4b04a466deb8" />
