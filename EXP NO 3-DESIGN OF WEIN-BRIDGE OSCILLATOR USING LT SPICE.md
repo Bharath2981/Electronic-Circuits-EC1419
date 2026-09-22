@@ -29,7 +29,8 @@
 
 ## calculation
 <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/9bb19d78-9534-4f31-aa30-5719ba7f374e" />
-## MARK-SPLITUP
+
+## mark splitup
 <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/c558adda-7923-4c68-a631-273a5ac46e87" />
 
 ## result
